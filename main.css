@@ -1,0 +1,48 @@
+body{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.button {
+	display: block;
+	margin-bottom: 30px;
+}
+
+.button:hover{
+	background-color: orange;
+}
+
+.text-area{
+	display: none;
+	width: 98%;
+	margin-top: 20px;
+}
+	
+.action-buttons{
+	float: right;
+
+
+}
+.edit-save1,
+.edit-cancel1,
+.edit-save2,
+.edit-cancel2,
+.edit-save3,
+.edit-cancel3
+ {
+	border: solid 1px #bbb;
+	background-color: lightgray;
+	display: inline-block;
+	margin-bottom: 20px;
+
+}
+.ta1{
+	position: relative;
+	display: inline-block;
+
+
+}
+
+.hidden{
+	display: none;
+}
